@@ -1,0 +1,10 @@
+.top-bar {
+    background-color: red;
+    color: white;
+    border-bottom: 1px solid black;
+}
+
+.top-bar ul {
+    display: flex;
+    flex-direction: row;
+}
